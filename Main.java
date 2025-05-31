@@ -1,8 +1,3 @@
-/* Student Name : Supundi Goonarathne
-IIT ID : 20230621
-UOW ID : w2083105
-*/
-
 import java.io.File;
 import java.io.IOException;
 import java.util.*;
