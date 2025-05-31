@@ -1,7 +1,3 @@
-/* Student Name : Supundi Goonarathne
-IIT ID : 20230621
-UOW ID : w2083105
-*/
 
 public class Edge {
     private final int from;
