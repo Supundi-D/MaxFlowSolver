@@ -1,7 +1,4 @@
-/* Student Name : Supundi Goonarathne
-IIT ID : 20230621
-UOW ID : w2083105
-*/
+
 
 import java.io.BufferedReader;
 import java.io.FileReader;
